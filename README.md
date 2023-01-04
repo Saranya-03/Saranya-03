@@ -1,7 +1,21 @@
+ <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  </head>
+
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
 <h1 align="center">Hi 👋, I'm Saranya Raveendran</h1>
 <h3 align="center">An undergraduate student, B.Sc.(Hons) in Computer Science and Engineering, University of Moratuwa, SriLanka</h3>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - I’m currently learning **Machine Learning**
 
@@ -13,9 +27,7 @@
 <a href="https://kaggle.com/saranyaraveendran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/saranyaraveendran" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saranraveendran3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/saranraveendran3" height="30" width="40" /></a>
 </p>
-
-
-
+  
 <h3 align="left">Skills:</h3>
 
 <h4 align="left">Programming Languages:</h4>
@@ -41,8 +53,5 @@
 
 <h4 align="left">Other:</h4>
 <p align="left" > <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saranya-03&" alt="Saranya-03" /></p>
